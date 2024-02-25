@@ -6,7 +6,6 @@ This is a simple Todo application built using Python and Tkinter. It allows user
 
 - Add tasks: Enter a task in the input field and click "Add Task" to add it to the list.
 - Remove tasks: Select a task from the list and click "Remove Selected Task" to remove it.
-- Responsive design: The application window is resizable and adjusts to fit the content.
 - Keyboard shortcuts: Press Enter to add a task and Control+Q to quit the application.
 
 ## Requirements
